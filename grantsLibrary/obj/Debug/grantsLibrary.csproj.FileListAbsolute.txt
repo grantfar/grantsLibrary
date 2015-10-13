@@ -3,3 +3,8 @@ o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\bin\Debug\grantsLibra
 o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\bin\Debug\grantsLibrary.pdb
 o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.dll
 o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.pdb
+O:\CIS 237\grantsLibrary\grantsLibrary\bin\Debug\grantsLibrary.dll
+O:\CIS 237\grantsLibrary\grantsLibrary\bin\Debug\grantsLibrary.pdb
+O:\CIS 237\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.csprojResolveAssemblyReference.cache
+O:\CIS 237\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.dll
+O:\CIS 237\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.pdb
