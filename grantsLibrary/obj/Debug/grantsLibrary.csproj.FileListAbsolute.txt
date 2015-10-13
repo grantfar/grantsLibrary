@@ -1,0 +1,5 @@
+o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.csprojResolveAssemblyReference.cache
+o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\bin\Debug\grantsLibrary.dll
+o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\bin\Debug\grantsLibrary.pdb
+o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.dll
+o:\visual studio 2013\Projects\grantsLibrary\grantsLibrary\obj\Debug\grantsLibrary.pdb
